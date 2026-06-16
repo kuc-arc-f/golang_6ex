@@ -69,4 +69,8 @@ list
 ```
 
 ***
+### blog
+
+https://zenn.dev/link/comments/29f7117139d575
+
 
