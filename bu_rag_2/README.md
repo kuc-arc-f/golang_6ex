@@ -85,4 +85,6 @@ go build main.go
 * text input , Enter key
 
 ***
+### blog
 
+https://zenn.dev/knaka0209/scraps/4c701bed2eee16
